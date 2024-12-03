@@ -1,3 +1,3 @@
+3 estados de git: working directory, staging área y local repository
 
-hola
-chau
+4 estados de archivo: untracked. unmodified, modified y staged
